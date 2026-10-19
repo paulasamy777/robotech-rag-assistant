@@ -1,0 +1,11 @@
+Q: How do I upload code to the ESP32-CAM if it has no USB port?
+A: The ESP32-CAM does not include an onboard USB-to-Serial chip. To program it, you must either buy the ESP32-CAM-MB micro-USB shield, or connect a 3.3V/5V FTDI USB-to-TTL adapter to the U0R and U0T pins and bridge GPIO 0 to GND while flashing.
+
+Q: My microcontroller smoked when I connected a 12V battery to the 5V pin. Can I replace it under warranty?
+A: Unfortunately, no. Applying 12V directly to a 5V pin causes over-voltage damage, which is not covered by our 6-month manufacturing warranty.
+
+Q: Do you offer discounts for university graduation projects?
+A: Yes! Undergraduate students receive a 10% discount on orders over 3,000 EGP upon presenting a valid university ID at our Nasr City branch or emailing it to support@robotech-eg.com before ordering.
+
+Q: How can I pay for my order?
+A: We accept Cash on Delivery (COD) for orders under 5,000 EGP, as well as Instapay, Vodafone Cash, and Visa/Mastercard online or in-store.

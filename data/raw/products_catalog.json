@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PROD-001",
+    "name": "ESP32-CAM Wi-Fi + Bluetooth Module with OV2640 Camera",
+    "category": "Microcontrollers",
+    "price_egp": 450,
+    "in_stock": true,
+    "description": "Low-cost ESP32-based development board with an onboard 2MP OV2640 camera and microSD card slot. Ideal for IoT, video streaming, and basic computer vision projects. Note: Does not have a built-in USB port; requires an external USB-to-TTL FTDI programmer or ESP32-CAM-MB shield to upload code."
+  },
+  {
+    "id": "PROD-002",
+    "name": "Arduino Mega 2560 Rev3 Clone (with USB Cable)",
+    "category": "Microcontrollers",
+    "price_egp": 850,
+    "in_stock": true,
+    "description": "ATmega2560-based microcontroller board with 54 digital input/output pins (15 PWM outputs), 16 analog inputs, and 4 hardware serial ports (UARTs). Perfect for complex robotics, 3D printers, and multi-sensor systems requiring more memory and pins than an Arduino Uno."
+  },
+  {
+    "id": "PROD-003",
+    "name": "L298N Dual H-Bridge DC/Stepper Motor Driver",
+    "category": "Motor Drivers",
+    "price_egp": 140,
+    "in_stock": true,
+    "description": "High-voltage, high-current dual full-bridge driver capable of driving two DC motors or one bipolar stepper motor. Operating voltage up to 35V and continuous current of 2A per channel. Includes onboard 5V regulator jumper."
+  },
+  {
+    "id": "PROD-004",
+    "name": "RPLIDAR A1M8 360-Degree 2D Laser Range Scanner",
+    "category": "Sensors",
+    "price_egp": 5200,
+    "in_stock": false,
+    "description": "Low-cost 360-degree 2D laser scanner (LIDAR) solution capable of taking up to 8,000 samples per second with a 12-meter range. Ideal for autonomous vehicle mapping, SLAM, and obstacle avoidance."
+  },
+  {
+    "id": "PROD-005",
+    "name": "12V 5A Switching Power Supply Adapter",
+    "category": "Power",
+    "price_egp": 320,
+    "in_stock": true,
+    "description": "Regulated AC-to-DC 12V 5A power brick with standard 5.5mm x 2.1mm DC barrel jack. Built-in over-current and short-circuit protection for powering high-torque motors and LED strips."
+  }
+]
